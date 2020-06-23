@@ -1,2 +1,2 @@
-# std-inc.github.io
-Organization GitHub Page
+# Organization GitHub Page
+   * What we love doing?
